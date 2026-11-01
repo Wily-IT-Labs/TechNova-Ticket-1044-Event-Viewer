@@ -152,13 +152,24 @@ The ticket must not be marked Resolved until the relevant issue has been correct
 
 ## 10. Screenshots and Evidence
 
-The following evidence will be included:
 
-1. Event Viewer — Security-SPP Event ID 8198
-2. Detailed Windows licensing information
-3. PowerShell activation status
-4. Windows Activation Settings — Error 0xC004F213
-5. Activation Troubleshooter — Unsuccessful result
+## 10. Screenshots and Evidence
+
+### 1. Event Viewer — Error 8198
+![Event Viewer Error 8198](event%20view/01-event-viewer-error-8198.png)
+
+### 2. Windows Licensing Details
+![Windows Licensing Details](event%20view/02-license-details.png)
+
+### 3. PowerShell Activation Status
+![PowerShell Activation Status](event%20view/03-activation-status-powershell.png)
+
+### 4. Windows Activation Error
+![Windows Activation Error](event%20view/04-windows-activation-error.png)
+
+### 5. Activation Troubleshooter Result
+![Activation Troubleshooter Failed](event%20view/05-activation-troubleshooter-failed.png)
+  
 
 ## 11. Technical Skills Demonstrated
 
